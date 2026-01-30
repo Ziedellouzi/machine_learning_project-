@@ -1,32 +1,42 @@
-# Dreams & Grades  
-## Machine Learning Project – Introduction to Machine Learning
+# 💤 Dreams & Grades  
+## 📊 Machine Learning Project – Introduction to Machine Learning
 
-**Authors:**  
-Zied Ellouzi – Assil Tekaya – Yasmine Alaya  
-
----
-
-## 1. Project Description
-
-This project studies the relationship between **students’ lifestyle habits**, **sleep behavior**, and **academic performance** using statistical modeling and machine learning techniques.
-
-The objective is to quantify how behavioral factors such as **screen time**, **stress level**, and **caffeine consumption** influence **sleep duration** and **sleep quality**, and how these sleep-related variables, in turn, affect **academic performance**.
-
-The project combines:
-- Scientific literature
-- Data simulation grounded in empirical evidence
-- Regression-based machine learning models
-- Quantitative evaluation and interpretation
+This project was developed as part of the **Introduction to Machine Learning** course.  
+It aims to analyze the impact of **students’ lifestyle habits**, **sleep behavior**, and sleep-related characteristics on **academic performance**, using statistical methods and machine learning models.
 
 ---
 
-## 2. Research Question
+## 📌 Project Overview
 
-How do sleep duration and sleep quality influence academic performance among students, and how do behavioral factors such as stress, screen time, and caffeine intake affect this relationship?
+The **Dreams & Grades** project investigates the relationships between:
+
+- 🖥️ Screen time  
+- ☕ Caffeine consumption  
+- 😰 Stress level  
+
+and their effects on:
+
+- 🛌 Sleep duration  
+- 🌙 Sleep quality  
+
+as well as the indirect influence of sleep on **academic performance**.
+
+The approach combines:
+- scientific literature review,
+- realistic data simulation,
+- interpretable regression models,
+- quantitative analysis and evaluation.
 
 ---
 
-## 3. Repository Structure
+## 🎯 Research Question
+
+> How do sleep duration and sleep quality influence students’ academic performance,  
+> and how do behavioral factors such as stress, screen time, and caffeine consumption affect this relationship?
+
+---
+
+## 🗂️ Repository Structure
 
 ```text
 machine_learning_project/
@@ -40,7 +50,7 @@ machine_learning_project/
 │
 ├── simulation/
 │   └── data_generation.ipynb
-│
+│   └── generated_Dataset.csv
 ├── graphical_model/
 │   ├── Graphical model report.pdf
 │   └── Python_Code_to_Visualize_the_Graphical_Model.ipynb
