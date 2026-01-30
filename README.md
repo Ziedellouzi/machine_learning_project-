@@ -5,8 +5,14 @@ This project was developed as part of the **Introduction to Machine Learning** c
 It aims to analyze the impact of **students’ lifestyle habits**, **sleep behavior**, and sleep-related characteristics on **academic performance**, using statistical methods and machine learning models.
 
 ---
+## 🎯 Research Question
 
-## 📌 Project Overview
+> How do sleep duration and sleep quality influence students’ academic performance,  
+> and how do behavioral factors such as stress, screen time, and caffeine consumption affect this relationship?
+
+---
+
+## 📌 Project Overview 
 
 The **Dreams & Grades** project investigates the relationships between:
 
@@ -19,7 +25,8 @@ and their effects on:
 - 🛌 Sleep duration  
 - 🌙 Sleep quality  
 
-as well as the indirect influence of sleep on **academic performance**.
+as well as the indirect influence of sleep on :
+- 🎓 Academic performance.
 
 The approach combines:
 - scientific literature review,
@@ -29,12 +36,6 @@ The approach combines:
 
 ---
 
-## 🎯 Research Question
-
-> How do sleep duration and sleep quality influence students’ academic performance,  
-> and how do behavioral factors such as stress, screen time, and caffeine consumption affect this relationship?
-
----
 
 ## 🗂️ Repository Structure
 
